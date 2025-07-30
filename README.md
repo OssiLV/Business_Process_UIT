@@ -1,6 +1,7 @@
 ## Đồ án Quy Trình Nghiệp Vụ Giao Hàng Nhanh (GHN)
 
 -   [URL Canva Slide](https://www.canva.com/design/DAGunlobeBc/jwrlfFHzF5_--SFsUhdltA/edit?utm_content=DAGunlobeBc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+-   [Quá trình học](https://uithcm.sharepoint.com/:f:/s/msteams_21997b/EjWWcLcXmIRJsomFAtwZ7AYBnUE8VRfEu5Ct2naZ-A5iwA?e=mwRE98). **Lưu ý**: Đăng nhập bằng tài khoản của trường để xem
 
 ## Cấu trúc Repo
 
