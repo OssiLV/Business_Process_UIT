@@ -16,3 +16,8 @@ Business_Process_UIT/
 ├─ ThamKhao/            // Thư mục chưa các file đồ án tham khảo của khóa trước
 ├─ README.md
 ```
+
+## Tips
+
+-   **Mô hình hóa quy trình trong** [Chapter 2 Phần 3. Mô hình hóa quy trình](./SlideSinhVien/chap02.pdf)
+-   **Kiến trúc quy trình trong** [Chapter 3 Phần 3. Phương pháp mô hình hóa quy trìn](./SlideSinhVien/chap03.pdf)
